@@ -1,0 +1,69 @@
+.top-nav {
+    height: 6.3rem;
+    font-size: 1.5rem;
+    font-weight: 350;
+  }
+ .just {
+   color: #7B38E6;
+   font-family: Arial, Helvetica, sans-serif;
+   border-bottom: mediumblue;
+   
+   
+ }
+ .content {
+     padding-left: 20px;
+     padding-right: 20px;
+     font-size: 20px;
+ }
+ .content-2 {
+     padding-left: 20px;
+     padding-right: 20px;
+     font-size: 20px;
+ }
+ .content-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+ .about-us {
+     text-align: center;
+     font-size: 40px;
+     padding-bottom: 40px;
+     color: blue;
+ }
+ /* .foot {
+     display: table-footer-group;
+     background-color: black;
+     -moz-box-align: center;
+     width: 1350px;
+     
+ } */
+ .column {
+    padding-right: 80px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+  }
+  .list-q {
+ 
+   list-style: none;
+  }
+  .foot {
+    margin-left: 40px;
+  }
+
+
+.display-4 {
+    text-decoration-line: underline;
+    color: rgb(5, 45, 97);
+
+}
+.jumbotron {
+    background-image: image('n1.jpg');
+    
+}
+.inner-content {
+    font-size: 30px;
+    padding-left: 20px;
+}
